@@ -163,7 +163,7 @@
                         <div class="pv-single-demo">
                             <div class="thumb box">
                                 <img src="assets/images/preview/home-01.png" alt="Most Unique eCommerce">
-                                <a href="index-1.html" class="axil-btn btn-bg-primary right-icon view-btn">View Demo <i class="fal fa-long-arrow-right"></i></a>
+                                <a href="index-1.html" class="axil-btn btn-bg-primary right-icon view-btn">Servicios Generales <i class="fal fa-long-arrow-right"></i></a>
                             </div>
                             <h5 class="title"><a href="index-1.html">Servicios Generales</a></h5>
                         </div>
@@ -175,7 +175,7 @@
                         <div class="pv-single-demo">
                             <div class="thumb box">
                                 <img src="assets/images/preview/home-02.png" alt="Most Unique eCommerce">
-                                <a href="index-2.html" class="axil-btn btn-bg-primary right-icon view-btn">View Demo <i class="fal fa-long-arrow-right"></i></a>
+                                <a href="index-2.html" class="axil-btn btn-bg-primary right-icon view-btn">Gestion de activos <i class="fal fa-long-arrow-right"></i></a>
                             </div>
                             <h5 class="title"><a href="index-2.html">Gestion de activos</a></h5>
                         </div>
@@ -187,7 +187,7 @@
                         <div class="pv-single-demo">
                             <div class="thumb box">
                                 <img src="assets/images/preview/home-03.png" alt="Most Unique eCommerce">
-                                <a href="index-3.html" class="axil-btn btn-bg-primary right-icon view-btn">View Demo <i class="fal fa-long-arrow-right"></i></a>
+                                <a href="index-3.html" class="axil-btn btn-bg-primary right-icon view-btn">HVAC <i class="fal fa-long-arrow-right"></i></a>
                             </div>
                             <h5 class="title"><a href="index-3.html">HVAC</a></h5>
                         </div>
@@ -199,7 +199,7 @@
                         <div class="pv-single-demo">
                             <div class="thumb box">
                                 <img src="assets/images/preview/home-04.png" alt="Most Unique eCommerce">
-                                <a href="index-4.html" class="axil-btn btn-bg-primary right-icon view-btn">View Demo <i class="fal fa-long-arrow-right"></i></a>
+                                <a href="index-4.html" class="axil-btn btn-bg-primary right-icon view-btn">Otros <i class="fal fa-long-arrow-right"></i></a>
                             </div>
                             <h5 class="title"><a href="index-4.html">Otros</a></h5>
                         </div>
