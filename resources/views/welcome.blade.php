@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/icon.png">
 
     <!-- CSS
     ============================================ -->
@@ -25,6 +25,7 @@
     <link rel="stylesheet" href="assets/css/vendor/magnific-popup.css">
     <link rel="stylesheet" href="assets/css/vendor/base.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
+    <link rel="stylesheet" href="assets/css/vendor/custom.css">
 
 </head>
 
@@ -35,8 +36,6 @@
     <![endif]-->
     <a href="#top" class="back-to-top" id="backto-top"><i class="fal fa-arrow-up"></i></a>
     <header class="header axil-header header-style-3">
-
-      
         <!--<div class="header-top-campaign">
             <div class="container position-relative">
                 <div class="campaign-content">
@@ -60,7 +59,7 @@
                         <nav class="mainmenu-nav">
                             <button class="mobile-close-btn mobile-nav-toggler"><i class="fas fa-times"></i></button>
                             <div class="mobile-nav-brand">
-                                <a href="index.html" class="logo">
+                                <a href="{{ route('index') }}" class="logo">
                                     <img src="assets/images/logo/logo.png" alt="Site Logo">
                                 </a>
                             </div>
@@ -90,58 +89,57 @@
             <div class="pv-banner-area">
                 <div class="container-fluid">
                     <div class="row align-items-center">
-                        <div class="col-xl-4 col-lg-5">
+                        <div class="col-xl-8 col-lg-8">
                             <div class="banner-content">
                                 <div class="inner">
                                     <div class="section-title-wrapper">
-                                        <span class="title-highlighter highlighter-secondary"><i class="fas fa-fire"></i> eCommerce</span>
-                                        <h1 class="title">Brindamos soluciones integrales de implementación y mantenimiento de tiendas del sector retail</h1>
+                                        {{-- <span class="title-highlighter highlighter-secondary"><i class="fas fa-fire"></i> eCommerce</span> --}}
+                                        <h1 class="text-white">Brindamos soluciones integrales de implementación y mantenimiento de tiendas del sector retail</h1>
                                     </div>
                                 </div>
                                 <div class="theme-brief">
 
                                     <!-- Start Single Counter  -->
                                     <div class="single-counter">
-                                        <span class="subtile">Años en actividad</span>
+                                        <span class="subtile text-white">Años en actividad</span>
                                         <h2 class="title count">15</h2>
                                     </div>
                                     <!-- End Single Counter  -->
 
                                     <!-- Start Single Counter  -->
                                     <div class="single-counter">
-                                        <span class="subtile">Clientes</span>
+                                        <span class="subtile text-white">Clientes</span>
                                         <h2 class="title count">10</h2>
                                     </div>
                                     <!-- End Single Counter  -->
 
                                     <!-- Start Single Counter  -->
                                     <div class="single-counter">
-                                        <span class="subtile">Trabajos Realizados</span>
+                                        <span class="subtile text-white">Trabajos Realizados</span>
                                         <h2 class="title count">60</h2>
                                     </div>
                                     <!-- End Single Counter  -->
                                 </div>
-                                 <div class="theme-powerd">
+                                {{-- <div class="theme-powerd">
                                     <label> Nuestros Clientes</label>
-                                    <ul class="icon-list">
-                                        <li><img src="assets/images/preview/html.png" alt="html"></li>
-                                        <li><img src="assets/images/preview/css.png" alt="html"></li>
-                                        <li><img src="assets/images/preview/scss.png" alt="html"></li>
-                                        <li><img src="assets/images/preview/jquery.png" alt="html"></li>
-                                        <li><img src="assets/images/preview/bs5.png" alt="html"></li>
-                                        <li><img src="assets/images/preview/html.png" alt="html"></li>
-                                        <li><img src="assets/images/preview/css.png" alt="html"></li>
-                                        <li><img src="assets/images/preview/scss.png" alt="html"></li>
-                                        <li><img src="assets/images/preview/jquery.png" alt="html"></li>
-                                        <li><img src="assets/images/preview/bs5.png" alt="html"></li>
-                                    </ul>
-                                </div>
-
+                                    <div class="clientes-track">
+                                        <div class="cliente-item p-2"><img src="assets/images/preview/html.png" alt="html"></div>
+                                        <div class="cliente-item p-2"><img src="assets/images/preview/css.png" alt="css"></div>
+                                        <div class="cliente-item p-2"><img src="assets/images/preview/scss.png" alt="scss"></div>
+                                        <div class="cliente-item p-2"><img src="assets/images/preview/jquery.png" alt="jquery"></div>
+                                        <div class="cliente-item p-2"><img src="assets/images/preview/bs5.png" alt="bootstrap"></div>
+                                        <div class="cliente-item p-2"><img src="assets/images/preview/html.png" alt="html"></div>
+                                        <div class="cliente-item p-2"><img src="assets/images/preview/css.png" alt="css"></div>
+                                        <div class="cliente-item p-2"><img src="assets/images/preview/scss.png" alt="scss"></div>
+                                        <div class="cliente-item p-2"><img src="assets/images/preview/jquery.png" alt="jquery"></div>
+                                        <div class="cliente-item p-2"><img src="assets/images/preview/bs5.png" alt="bootstrap"></div>
+                                    </div>
+                                </div> --}}
                             </div>
                         </div>
                         <div class="col-xl-8 col-lg-7">
                             <div class="banner-thumbnail">
-                                <img src="assets/images/preview/banner-mockup.png" alt="Mockup">
+                                {{-- <img src="assets/images/preview/banner-mockup.png" alt="Mockup"> --}}
                             </div>
                         </div>
                     </div>
@@ -149,6 +147,170 @@
             </div>
         </div>
         <!-- End Banner Area  -->
+
+        <div class="axil-categorie-area pt--30 bg-color-white">
+            <div class="container">
+                <div class="categrie-product-activation-2 categorie-product-two slick-layout-wrapper--15">
+                    <div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="/assets/images/preview/maestro.png" alt="product categorie">
+                            </a>
+                        </div>
+                        <!-- End .categrie-product -->
+                    </div>
+                    <!-- End .slick-single-layout -->
+                    <div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="/assets/images/preview/promart.png" alt="product categorie">
+                            </a>
+                        </div>
+                        <!-- End .categrie-product -->
+                    </div>
+                    <!-- End .slick-single-layout -->
+                    <div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-3.png" alt="product categorie">
+                                <h6 class="cat-title">Long Chair</h6>
+                            </a>
+                        </div>
+                        <!-- End .categrie-product -->
+                    </div>
+                    <!-- End .slick-single-layout -->
+                    <div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-4.png" alt="product categorie">
+                                <h6 class="cat-title">Arm Chair</h6>
+                            </a>
+                        </div>
+                        <!-- End .categrie-product -->
+                    </div>
+                    <!-- End .slick-single-layout -->
+                    <div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-5.png" alt="product categorie">
+                                <h6 class="cat-title">Mirror Table</h6>
+                            </a>
+                        </div>
+                        <!-- End .categrie-product -->
+                    </div>
+                    <!-- End .slick-single-layout -->
+                    <div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-6.png" alt="product categorie">
+                                <h6 class="cat-title">Vintage Table</h6>
+                            </a>
+                        </div>
+                        <!-- End .categrie-product -->
+                    </div>
+                    <!-- End .slick-single-layout -->
+                    <div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-7.png" alt="product categorie">
+                                <h6 class="cat-title">Round Table</h6>
+                            </a>
+                        </div>
+                        <!-- End .categrie-product -->
+                    </div>
+                    <!-- End .slick-single-layout -->
+                    <div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-8.png" alt="product categorie">
+                                <h6 class="cat-title">Neon Sofa</h6>
+                            </a>
+                        </div>
+                        <!-- End .categrie-product -->
+                    </div>
+                    <!-- End .slick-single-layout -->
+                    <div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-9.png" alt="product categorie">
+                                <h6 class="cat-title">Reading</h6>
+                            </a>
+                        </div>
+                        <!-- End .categrie-product -->
+                    </div>
+                    <!-- End .slick-single-layout -->
+                    <div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-11.png" alt="product categorie">
+                                <h6 class="cat-title">Wear Drove</h6>
+                            </a>
+                        </div>
+                        <!-- End .categrie-product -->
+                    </div>
+                    <!-- End .slick-single-layout -->
+                    <div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-12.png" alt="product categorie">
+                                <h6 class="cat-title">Sofa Set</h6>
+                            </a>
+                        </div>
+                        <!-- End .categrie-product -->
+                    </div>
+                    <!-- End .slick-single-layout -->
+                    <div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-7.png" alt="product categorie">
+                                <h6 class="cat-title">Round Table</h6>
+                            </a>
+                        </div>
+                        <!-- End .categrie-product -->
+                    </div>
+                    <!-- End .slick-single-layout -->
+                    <div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-8.png" alt="product categorie">
+                                <h6 class="cat-title">Neon Sofa</h6>
+                            </a>
+                        </div>
+                        <!-- End .categrie-product -->
+                    </div>
+                    <!-- End .slick-single-layout -->
+                    <div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-9.png" alt="product categorie">
+                                <h6 class="cat-title">Reading</h6>
+                            </a>
+                        </div>
+                        <!-- End .categrie-product -->
+                    </div>
+                    <!-- End .slick-single-layout -->
+                    <div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-11.png" alt="product categorie">
+                                <h6 class="cat-title">Wear Drove</h6>
+                            </a>
+                        </div>
+                        <!-- End .categrie-product -->
+                    </div>
+                    <!-- End .slick-single-layout -->
+                    <div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-12.png" alt="product categorie">
+                                <h6 class="cat-title">Sofa Set</h6>
+                            </a>
+                        </div>
+                        <!-- End .categrie-product -->
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <!-- Start Page Demo Area  -->
         <div class="pv-demo-area" id="demos">
@@ -163,7 +325,9 @@
                         <div class="pv-single-demo">
                             <div class="thumb box">
                                 <img src="assets/images/preview/home-01.png" alt="Most Unique eCommerce">
-                                <a href="index-1.html" class="axil-btn btn-bg-primary right-icon view-btn">Servicios Generales <i class="fal fa-long-arrow-right"></i></a>
+                                <button type="button" class="axil-btn btn-bg-primary right-icon view-btn" data-bs-toggle="modal" data-bs-target="#modalServiciosGenerales">
+                                    Servicios Generales <i class="fal fa-long-arrow-right"></i>
+                                </button>
                             </div>
                             <h5 class="title"><a href="index-1.html">Servicios Generales</a></h5>
                         </div>
@@ -544,7 +708,7 @@
                     </div>
                 </div>
             </div>
-        </div> 
+        </div>
         <!-- End Call To Action Area  -->
 
     </main>
@@ -556,7 +720,7 @@
             <div class="container">
                 <div class="copyright-left d-flex flex-wrap justify-content-center">
                     <ul class="quick-link">
-                        <li>© 2025. All rights reserved by <a target="_blank" href="../../../index.htm">Axilthemes</a>.</li>
+                        <li>© <span id="current_year"></span>. All rights reserved by <a target="_blank" href="#">Browns Enterprises SACS</a>.</li>
                     </ul>
                 </div>
             </div>
@@ -564,6 +728,35 @@
         <!-- End Copyright Area  -->
     </footer>
     <!-- End Footer Area  -->
+
+    <!-- Modal: Servicios Generales (contenido vacío para gestionar) -->
+    <div class="modal fade" id="modalServiciosGenerales" tabindex="-1" aria-labelledby="modalServiciosGeneralesLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="">
+                        <div class="section-title-wrapper section-title-center">
+                            <h2 class="title">How to buy NFTs</h2>
+                        </div>
+                        <div class="row row-cols-xl-4 row-cols-lg-2 row-cols-md-2 row-cols-sm-2 row-cols-1 row--20 d-flex align-items-center">
+                            <div class="col">
+                                <div class="service-box how-to-sell">
+                                    <div class="icon">
+                                        <img src="assets/images/icons/choose.png" alt="Service">
+                                    </div>
+                                    <h6 class="title">Choose Your Favourite</h6>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex quas expedita veritatis ipsum, culpa, asperiores.</p>
+                                </div>
+                            </div>
+                            <div class="col p-5">
+                                <img src="assets/images/icons/protection.png" alt="Service">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- JS
 ============================================ -->
@@ -585,6 +778,7 @@
     <script src="assets/js/vendor/isotope.pkgd.min.js"></script>
     <script src="assets/js/vendor/counterup.js"></script>
     <script src="assets/js/vendor/waypoints.min.js"></script>
+    <script src="assets/js/vendor/custom.js"></script>
 
     <!-- Main JS -->
     <script src="assets/js/main.js"></script>

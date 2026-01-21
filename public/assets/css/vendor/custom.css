@@ -1,0 +1,23 @@
+.clientes-slider {
+    overflow: hidden;
+}
+
+.clientes-track {
+    display: flex;
+    align-items: center;
+    transition: transform .6s ease;
+}
+
+.cliente-item {
+    flex: 0 0 33.3333%;
+    max-width: 33.3333%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cliente-item img {
+    max-height: 56px;
+    width: auto;
+    display: block;
+}
