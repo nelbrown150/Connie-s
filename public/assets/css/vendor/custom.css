@@ -21,3 +21,19 @@
     width: auto;
     display: block;
 }
+
+.bg-oficial {
+    background-color: #0066b3;
+}
+
+.bg-light-oficial {
+    background-color: #00baf2;
+}
+
+/* Compensar el header sticky para enlaces por ancla */
+:root { --axil-header-offset: 90px; }
+@media (min-width: 992px) {
+    html { scroll-behavior: smooth; }
+    /* Aplicar un margen de scroll por defecto a las secciones objetivo */
+    [id] { scroll-margin-top: var(--axil-header-offset); }
+}

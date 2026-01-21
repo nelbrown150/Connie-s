@@ -1,7 +1,7 @@
 ﻿@import"https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Poppins:wght@400;500;600;700&display=swap";
 
 :root {
-    --color-primary: #3577f0;
+    --color-primary: #00baf2;
     --light-primary: #8c71db;
     --color-secondary: #ff497c;
     --color-tertiary: #FAB8C4;
@@ -11,7 +11,7 @@
     --color-light: #CBD3D9;
     --color-lighter: #F6F7FB;
     --color-lightest: #C4C4C4;
-    --color-chart01: #896BA7;
+    --color-chart01: #0066b3;
     --color-chart02: #BADEFF;
     --color-chart03: #E76458;
     --color-heading: #292930;
@@ -26,6 +26,7 @@
     --color-warning: #FF8F3C;
     --color-info: #1BA2DB;
     --color-facebook: #3B5997;
+    --color-whatsapp: #25D366;
     --color-twitter: #1BA1F2;
     --color-youtube: #ED4141;
     --color-linkedin: #0077B5;
@@ -4160,11 +4161,11 @@ button.axil-btn.wishlist-btn:hover:before {
 }
 
 .title-highlighter.highlighter-secondary {
-    color: var(--color-secondary)
+    color: var(--color-chart01)
 }
 
 .title-highlighter.highlighter-secondary i {
-    background-color: var(--color-secondary);
+    background-color: var(--color-chart01);
     color: var(--color-white)
 }
 
@@ -7497,7 +7498,7 @@ button.axil-btn.wishlist-btn:hover:before {
     content: "";
     height: 45px;
     width: 45px;
-    background-color: var(--color-secondary);
+    background-color: var(--color-lighter);
     transform: scale(0);
     border-radius: 50%;
     position: absolute;
