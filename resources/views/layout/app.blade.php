@@ -47,7 +47,7 @@
                             @php $isIndex = request()->routeIs('index'); @endphp
                             <ul class="mainmenu">
                                 <li><a href="{{ $isIndex ? '#servicios' : route('index').'#servicios' }}" class="smoth-animation">Productos y Servicios</a></li>
-                                <li><a href="{{ $isIndex ? '#cualidades' : route('index').'#cualidades' }}" class="smoth-animation">Nuestras cualidades</a></li>
+                                <li><a href="{{ $isIndex ? '#nosotros' : route('index').'#nosotros' }}" class="smoth-animation">Nosotros</a></li>
                                 <li><a href="{{ route('experiences') }}">Nuestro Trabajo</a></li>
                                 <li><a href="{{ $isIndex ? '#contacto' : route('index').'#contacto' }}" class="smoth-animation">Contacto</a></li>
                             </ul>

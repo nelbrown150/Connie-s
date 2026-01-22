@@ -280,7 +280,7 @@
             </div>
         </div>
 
-        <div class="axil-newsletter-area axil-section-gap">
+        <div class="pv-feature-area axil-section-gap pb-0">
             <div class="container">
                 <div class="etrade-newsletter-wrapper bg_image bg_image--5">
                     <div class="newsletter-content">
@@ -294,7 +294,68 @@
             </div>
         </div>
 
-        <div class="pv-feature-area axil-section-gap" id="cualidades">
+        <div class="pv-feature-area axil-section-gap" id="nosotros">
+            <div class="container">
+                <div class="pv-feature-box">
+                    <div class="section-title-wrapper section-title-center">
+                        <span class="title-highlighter highlighter-secondary"><i class="fas fa-fire"></i> Nuestra historia</span>
+                        <h2 class="title">Nosotros</h2>
+                    </div>
+                </div>
+                <div class="row align-items-center axil-about-area about-style-1">
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="about-thumbnail">
+                            <div class="thumbnail">
+                                <img src="assets/images/bg/bg-image-3.jpg" alt="About Us">
+                            </div>
+                        </div>
+                        <div class="row row--20 mt--30">
+                            <div class="col">
+                                <div class="service-box service-style-2">
+                                    <div class="icon">
+                                        <img src="assets/images/icons/service1.png" alt="Service">
+                                    </div>
+                                    <div class="content">
+                                        <h6 class="title">Fast &amp; Secure Delivery</h6>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="service-box service-style-2">
+                                    <div class="icon">
+                                        <img src="assets/images/icons/service2.png" alt="Service">
+                                    </div>
+                                    <div class="content">
+                                        <h6 class="title">Money Back Guarantee</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="about-content content-right">
+                            <span class="text-heading">Salesforce B2C Commerce can help you create unified, intelligent digital commerce
+                                experiences — both online and in the store.</span>
+                            <div class="row">
+                                <div class="col-xl-6">
+                                    <p>Empower your sales teams with industry tailored
+                                        solutions that support manufacturers as they go
+                                        digital, and adapt to changing markets & customers
+                                        faster by creating new business.</p>
+                                </div>
+                                <div class="col-xl-6">
+                                    <p class="mb--0">Salesforce B2B Commerce offers buyers the
+                                        seamless, self-service experience of online
+                                        shopping with all the B2B</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="pv-feature-area pb-0" >
             <div class="container">
                 <div class="pv-feature-box">
                     <div class="section-title-wrapper section-title-center">
@@ -359,10 +420,10 @@
             </div>
         </div>
 
-        <div class="pv-feature-area" id="contacto">
+        <div class="pv-feature-area axil-section-gap pb-0" id="contacto">
             <div class="container">
-                <div class="pv-action-box pt-0">
-                    <div class="section-title-wrapper">
+                <div class="pv-feature-box">
+                    <div class="section-title-wrapper section-title-center">
                         <span class="title-highlighter highlighter-secondary"><i class="fas fa-fire"></i> Hablemos de tu proyecto</span>
                         <h2 class="title">Contacto </h2>
                         {{-- <a href="../../../item/etrade-multipurpose-ecommerce-html5-template/39507398.html" class="axil-btn btn-bg-primary"><i class="fal fa-shopping-cart"></i> Solicitar Servicio</a> --}}
