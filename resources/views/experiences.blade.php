@@ -8,17 +8,17 @@
                 <div class="col-lg-6 col-md-8">
                     <div class="inner">
                         <ul class="axil-breadcrumb">
-                            <li class="axil-breadcrumb-item"><a href="index.html">Home</a></li>
+                            <li class="axil-breadcrumb-item"><a href="index.html">Inicio</a></li>
                             <li class="separator"></li>
-                            <li class="axil-breadcrumb-item active" aria-current="page">About Us</li>
+                            <li class="axil-breadcrumb-item active" aria-current="page">Nuestro Trabajo</li>
                         </ul>
-                        <h1 class="title">About Our Store</h1>
+                        <h1 class="title">Nuestro Trabajo</h1>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-4">
                     <div class="inner">
                         <div class="bradcrumb-thumb">
-                            <img src="assets/images/product/product-45.png" alt="Image">
+                            <img src="assets/images/logo/icon.png" alt="Image">
                         </div>
                     </div>
                 </div>
@@ -40,21 +40,12 @@
                 </div>
                 <div class="col-xl-8 col-lg-6">
                     <div class="about-content content-right">
-                        <span class="title-highlighter highlighter-primary2"> <i class="far fa-shopping-basket"></i>About Store</span>
-                        <h3 class="title">Online shopping includes both buying things online.</h3>
-                        <span class="text-heading">Salesforce B2C Commerce can help you create unified, intelligent digital commerce
-                            experiences — both online and in the store.</span>
+                        <span class="title-highlighter highlighter-primary2"> <i class="far fa-shopping-basket"></i>Connie´s</span>
+                        <h3 class="title">Nuestra Empresa</h3>
+                        <span class="text-heading">Con más de 15 años en el mercado, somos una empresa especializada en la implementación y mantenimiento de tiendas del sector retail.  </span>
                         <div class="row">
                             <div class="col-xl-6">
-                                <p>Empower your sales teams with industry tailored
-                                    solutions that support manufacturers as they go
-                                    digital, and adapt to changing markets & customers
-                                    faster by creating new business.</p>
-                            </div>
-                            <div class="col-xl-6">
-                                <p class="mb--0">Salesforce B2B Commerce offers buyers the
-                                    seamless, self-service experience of online
-                                    shopping with all the B2B</p>
+                                <p class="mb--0">Estamos orientados a la asistencia técnica en el área de; electricidad industrial y comercial, fabricación de luminarias, fabricación de accesorios metalmecánicos, instalación de maquinaria diversa, limpieza de exteriores, mantenimiento de letreros luminosos, mantenimiento de maquinaria de matizado de pinturas, venta y servicio post-venta de maquinaria de corte de melamine.</p>
                             </div>
                         </div>
                     </div>
@@ -74,9 +65,8 @@
                             <img src="assets/images/about/shape-01.png" alt="Shape">
                         </div>
                         <div class="content">
-                            <h6 class="title">40,000+ Happy Customer</h6>
-                            <p>Empower your sales teams with industry
-                                tailored solutions that support.</p>
+                            <h6 class="title">10,000 + clientes satisfechos</h6>
+                            <p>Nos adaptamos a las necesidades de nuestros clientes.</p>
                         </div>
                     </div>
                 </div>
@@ -86,9 +76,8 @@
                             <img src="assets/images/about/shape-02.png" alt="Shape">
                         </div>
                         <div class="content">
-                            <h6 class="title">16 Years of Experiences</h6>
-                            <p>Empower your sales teams with industry
-                                tailored solutions that support.</p>
+                            <h6 class="title">21 años de Experiencia</h6>
+                            <p>Empleamos nuestra experiencia para ofrecer soluciones innovadoras y de calidad.</p>
                         </div>
                     </div>
                 </div>
@@ -98,9 +87,8 @@
                             <img src="assets/images/about/shape-03.png" alt="Shape">
                         </div>
                         <div class="content">
-                            <h6 class="title">12 Awards Won</h6>
-                            <p>Empower your sales teams with industry
-                                tailored solutions that support.</p>
+                            <h6 class="title">Innovación</h6>
+                            <p>Trabajamos con las últimas tecnologías para ofrecer eficaces soluciones y más innovadoras.</p>
                         </div>
                     </div>
                 </div>
@@ -110,12 +98,12 @@
     <!-- End About Area  -->
 
     <!-- Start Team Area  -->
-    <div class="axil-team-area bg-wild-sand">
+    <!--<div class="axil-team-area bg-wild-sand">
         <div class="team-left-fullwidth">
             <div class="container ml--xxl-0">
                 <div class="section-title-wrapper">
-                    <span class="title-highlighter highlighter-primary"> <i class="fas fa-users"></i> Our Team</span>
-                    <h3 class="title">Expart Management Team</h3>
+                    <span class="title-highlighter highlighter-primary"> <i class="fas fa-users"></i> Nuestro Equipo</span>
+                    <h3 class="title">Staff</h3>
                 </div>
                 <div class="team-slide-activation slick-layout-wrapper--20 axil-slick-arrow  arrow-top-slide">
                     <div class="slick-single-layout">
@@ -166,7 +154,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
     <!-- End Team Area  -->
 
     <!-- Start About Area  -->
@@ -180,13 +168,12 @@
                 </div>
                 <div class="col-lg-7">
                     <div class="about-content content-right">
-                        <span class="subtitle">Features #01</span>
-                        <h4 class="title">Solutions that work together</h4>
-                        <p>Publish your eCommerce site quickly with our easy-to-use store builder— no
-                            coding required. Migrate your items from your point of sale system or turn your
-                            Instagram feed into a shopping site and start selling fast. Square Online works
-                            for all kinds of businesses—retail, restaurants, services.</p>
-                        <a href="contact.html" class="axil-btn btn-outline">Get In Touch</a>
+                        <span class="subtitle">  </span>
+                        <h4 class="title">Visión</h4>
+                        <p>Ser la empresa líder a nivel nacional en soluciones integrales del sector retail.</p>
+                        <h4 class="title">Misión</h4>
+                        <p>Brindar a nuestros clientes soluciones oportunas y profesionales optimizando sus recursos al máximo.</p>
+                        <a href="https://wa.me/51910398955?text=Hola%20quiero%20solicitar%20un%20servicio" target="_blank" class="axil-btn btn-outline">Solicita Nuestros Servicios</a>
                     </div>
                 </div>
             </div>
@@ -198,13 +185,18 @@
                 </div>
                 <div class="col-lg-7 order-lg-1">
                     <div class="about-content content-left">
-                        <span class="subtitle">Features #01</span>
-                        <h4 class="title">Solutions that work together</h4>
-                        <p>Publish your eCommerce site quickly with our easy-to-use store builder— no
-                            coding required. Migrate your items from your point of sale system or turn your
-                            Instagram feed into a shopping site and start selling fast. Square Online works
-                            for all kinds of businesses—retail, restaurants, services.</p>
-                        <a href="contact.html" class="axil-btn btn-outline">Get In Touch</a>
+                        <span class="subtitle">  </span>
+                        <h4 class="title">Valores</h4>
+                        <ul></ul>
+                            <li>Creemos en el equipo humano como el mayor activo de nuestro negocio</li>
+                            <li>Creemos en la autonomía de los profesionales, en su pro-actividad, en sus iniciativas personales y en sus aportaciones.</li>
+                            <li>Creemos en la experiencia del equipo.</li>
+                            <li>Nos gustan los retos: los nuestros y los de nuestros clientes. Si nos sentimos «cómodos» es que no vamos lo suficientemente rápido.</li>
+                            <li>Creemos en la honestidad y transparencia: con nosotros y con nuestros clientes.</li>
+                            <li>Creemos en la humildad como medio de mejora continua de nuestro servicio.</li>
+                        </ul>
+                        
+                        <a href="https://wa.me/51910398955?text=Hola%20quiero%20solicitar%20un%20servicio" target="_blank"  class="axil-btn btn-outline">Solicita Nuestros Servicios</a>
                     </div>
                 </div>
             </div>
@@ -212,10 +204,10 @@
     </div>
     <!-- End About Area  -->
 
-    <!-- Start Axil Newsletter Area  -->
+    <!-- Start Axil Newsletter Area   
     <div class="axil-newsletter-area axil-section-gap">
         <div class="container">
-            <div class="etrade-newsletter-wrapper bg_image bg_image--5">
+            <div class="bg_image bg_image--14 newsletter-wrapper">
                 <div class="newsletter-content">
                     <span class="title-highlighter highlighter-primary2"><i class="fas fa-envelope-open"></i>Newsletter</span>
                     <h2 class="title mb--40 mb_sm--30">Get weekly update</h2>
@@ -227,9 +219,9 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>-->
         <!-- End .container -->
-    </div>
+    <!--</div>-->
     <!-- End Axil Newsletter Area  -->
 </main>
 

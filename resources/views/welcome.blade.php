@@ -20,21 +20,21 @@
                                     <!-- Start Single Counter  -->
                                     <div class="single-counter">
                                         <span class="subtile text-white">Años en actividad</span>
-                                        <h2 class="title count">15</h2>
+                                        <h2 class="title count">26</h2>
                                     </div>
                                     <!-- End Single Counter  -->
 
                                     <!-- Start Single Counter  -->
                                     <div class="single-counter">
                                         <span class="subtile text-white">Clientes</span>
-                                        <h2 class="title count">10</h2>
+                                        <h2 class="title count">10000</h2>
                                     </div>
                                     <!-- End Single Counter  -->
 
                                     <!-- Start Single Counter  -->
                                     <div class="single-counter">
                                         <span class="subtile text-white">Trabajos Realizados</span>
-                                        <h2 class="title count">60</h2>
+                                        <h2 class="title count">10000</h2>
                                     </div>
                                     <!-- End Single Counter  -->
                                 </div>
@@ -90,8 +90,8 @@
                     <div class="slick-single-layout slick-slide">
                         <div class="categrie-product-2">
                             <a href="#">
-                                <img class="img-fluid" src="assets/images/product/categories/furni-3.png" alt="product categorie">
-                                <h6 class="cat-title">Long Chair</h6>
+                                <img class="img-fluid" src="assets/images/preview/cassinelli3.jpg" alt="product categorie">
+                                
                             </a>
                         </div>
                         <!-- End .categrie-product -->
@@ -100,8 +100,8 @@
                     <div class="slick-single-layout slick-slide">
                         <div class="categrie-product-2">
                             <a href="#">
-                                <img class="img-fluid" src="assets/images/product/categories/furni-4.png" alt="product categorie">
-                                <h6 class="cat-title">Arm Chair</h6>
+                                <img class="img-fluid" src="assets/images/preview/engie.png" alt="product categorie">
+                                
                             </a>
                         </div>
                         <!-- End .categrie-product -->
@@ -110,8 +110,8 @@
                     <div class="slick-single-layout slick-slide">
                         <div class="categrie-product-2">
                             <a href="#">
-                                <img class="img-fluid" src="assets/images/product/categories/furni-5.png" alt="product categorie">
-                                <h6 class="cat-title">Mirror Table</h6>
+                                <img class="img-fluid" src="assets/images/preview/williams.png" alt="product categorie">
+                                
                             </a>
                         </div>
                         <!-- End .categrie-product -->
@@ -120,8 +120,8 @@
                     <div class="slick-single-layout slick-slide">
                         <div class="categrie-product-2">
                             <a href="#">
-                                <img class="img-fluid" src="assets/images/product/categories/furni-6.png" alt="product categorie">
-                                <h6 class="cat-title">Vintage Table</h6>
+                                <img class="img-fluid" src="assets/images/preview/lacuracao2.png" alt="product categorie">
+                                
                             </a>
                         </div>
                         <!-- End .categrie-product -->
@@ -130,8 +130,8 @@
                     <div class="slick-single-layout slick-slide">
                         <div class="categrie-product-2">
                             <a href="#">
-                                <img class="img-fluid" src="assets/images/product/categories/furni-7.png" alt="product categorie">
-                                <h6 class="cat-title">Round Table</h6>
+                                <img class="img-fluid" src="assets/images/preview/roho.png" alt="product categorie">
+                                
                             </a>
                         </div>
                         <!-- End .categrie-product -->
@@ -140,8 +140,8 @@
                     <div class="slick-single-layout slick-slide">
                         <div class="categrie-product-2">
                             <a href="#">
-                                <img class="img-fluid" src="assets/images/product/categories/furni-8.png" alt="product categorie">
-                                <h6 class="cat-title">Neon Sofa</h6>
+                                <img class="img-fluid" src="assets/images/preview/hym.png" alt="product categorie">
+                                
                             </a>
                         </div>
                         <!-- End .categrie-product -->
@@ -150,80 +150,80 @@
                     <div class="slick-single-layout slick-slide">
                         <div class="categrie-product-2">
                             <a href="#">
-                                <img class="img-fluid" src="assets/images/product/categories/furni-9.png" alt="product categorie">
-                                <h6 class="cat-title">Reading</h6>
+                                <img class="img-fluid" src="assets/images/preview/sodimac2.png" alt="product categorie">
+                                
                             </a>
                         </div>
                         <!-- End .categrie-product -->
-                    </div>
+                    <!--</div>-->
                     <!-- End .slick-single-layout -->
-                    <div class="slick-single-layout slick-slide">
-                        <div class="categrie-product-2">
-                            <a href="#">
-                                <img class="img-fluid" src="assets/images/product/categories/furni-11.png" alt="product categorie">
-                                <h6 class="cat-title">Wear Drove</h6>
-                            </a>
-                        </div>
-                        <!-- End .categrie-product -->
-                    </div>
-                    <!-- End .slick-single-layout -->
-                    <div class="slick-single-layout slick-slide">
-                        <div class="categrie-product-2">
-                            <a href="#">
-                                <img class="img-fluid" src="assets/images/product/categories/furni-12.png" alt="product categorie">
-                                <h6 class="cat-title">Sofa Set</h6>
-                            </a>
-                        </div>
-                        <!-- End .categrie-product -->
-                    </div>
-                    <!-- End .slick-single-layout -->
-                    <div class="slick-single-layout slick-slide">
-                        <div class="categrie-product-2">
-                            <a href="#">
-                                <img class="img-fluid" src="assets/images/product/categories/furni-7.png" alt="product categorie">
-                                <h6 class="cat-title">Round Table</h6>
-                            </a>
-                        </div>
-                        <!-- End .categrie-product -->
-                    </div>
-                    <!-- End .slick-single-layout -->
-                    <div class="slick-single-layout slick-slide">
-                        <div class="categrie-product-2">
-                            <a href="#">
-                                <img class="img-fluid" src="assets/images/product/categories/furni-8.png" alt="product categorie">
-                                <h6 class="cat-title">Neon Sofa</h6>
-                            </a>
-                        </div>
-                        <!-- End .categrie-product -->
-                    </div>
-                    <!-- End .slick-single-layout -->
-                    <div class="slick-single-layout slick-slide">
-                        <div class="categrie-product-2">
-                            <a href="#">
-                                <img class="img-fluid" src="assets/images/product/categories/furni-9.png" alt="product categorie">
-                                <h6 class="cat-title">Reading</h6>
-                            </a>
-                        </div>
-                        <!-- End .categrie-product -->
-                    </div>
-                    <!-- End .slick-single-layout -->
-                    <div class="slick-single-layout slick-slide">
+                    <!--<div class="slick-single-layout slick-slide">
                         <div class="categrie-product-2">
                             <a href="#">
                                 <img class="img-fluid" src="assets/images/product/categories/furni-11.png" alt="product categorie">
                                 <h6 class="cat-title">Wear Drove</h6>
                             </a>
-                        </div>
+                        </div>-->
                         <!-- End .categrie-product -->
-                    </div>
+                    <!--</div>-->
                     <!-- End .slick-single-layout -->
-                    <div class="slick-single-layout slick-slide">
+                    <!--<div class="slick-single-layout slick-slide">
                         <div class="categrie-product-2">
                             <a href="#">
                                 <img class="img-fluid" src="assets/images/product/categories/furni-12.png" alt="product categorie">
                                 <h6 class="cat-title">Sofa Set</h6>
                             </a>
-                        </div>
+                        </div>-->
+                        <!-- End .categrie-product -->
+                   <!-- </div>-->
+                    <!-- End .slick-single-layout -->
+                    <!--<div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-7.png" alt="product categorie">
+                                <h6 class="cat-title">Round Table</h6>
+                            </a>
+                        </div>-->
+                        <!-- End .categrie-product -->
+                    <!--</div>-->
+                    <!-- End .slick-single-layout -->
+                    <!--<div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-8.png" alt="product categorie">
+                                <h6 class="cat-title">Neon Sofa</h6>
+                            </a>
+                        </div>-->
+                        <!-- End .categrie-product -->
+                    <!--</div>-->
+                    <!-- End .slick-single-layout -->
+                    <!--<div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-9.png" alt="product categorie">
+                                <h6 class="cat-title">Reading</h6>
+                            </a>
+                        </div> -->
+                        <!-- End .categrie-product -->
+                    <!--</div> -->
+                    <!-- End .slick-single-layout -->
+                   <!-- <div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-11.png" alt="product categorie">
+                                <h6 class="cat-title">Wear Drove</h6>
+                            </a>
+                        </div> -->
+                        <!-- End .categrie-product -->
+                    <!--</div> -->
+                    <!-- End .slick-single-layout -->
+                    <!--<div class="slick-single-layout slick-slide">
+                        <div class="categrie-product-2">
+                            <a href="#">
+                                <img class="img-fluid" src="assets/images/product/categories/furni-12.png" alt="product categorie">
+                                <h6 class="cat-title">Sofa Set</h6>
+                            </a>
+                        </div>-->
                         <!-- End .categrie-product -->
                     </div>
                 </div>
@@ -253,16 +253,20 @@
                         <div class="pv-single-demo">
                             <div class="thumb box">
                                 <img src="assets/images/preview/home-02.png" alt="Most Unique eCommerce">
-                                <a href="index-2.html" class="axil-btn btn-bg-primary right-icon view-btn">Gestion de activos <i class="fal fa-long-arrow-right"></i></a>
+                                <button type="button" class="axil-btn btn-bg-primary right-icon view-btn" data-bs-toggle="modal" data-bs-target="#modalGestiondeActivos">
+                                    Gestion de activos <i class="fal fa-long-arrow-right"></i>
+                                </button>
                             </div>
-                            <h5 class="title"><a href="index-2.html">Gestion de activos</a></h5>
+                            <h5 class="title"><a href="index-2.html">Gestion de Activos</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-12">
                         <div class="pv-single-demo">
                             <div class="thumb box">
                                 <img src="assets/images/preview/home-03.png" alt="Most Unique eCommerce">
-                                <a href="index-3.html" class="axil-btn btn-bg-primary right-icon view-btn">HVAC <i class="fal fa-long-arrow-right"></i></a>
+                                <button type="button" class="axil-btn btn-bg-primary right-icon view-btn" data-bs-toggle="modal" data-bs-target="#modalHVAC">
+                                    HVAC <i class="fal fa-long-arrow-right"></i>
+                                </button>
                             </div>
                             <h5 class="title"><a href="index-3.html">HVAC</a></h5>
                         </div>
@@ -271,7 +275,9 @@
                         <div class="pv-single-demo">
                             <div class="thumb box">
                                 <img src="assets/images/preview/home-04.png" alt="Most Unique eCommerce">
-                                <a href="index-4.html" class="axil-btn btn-bg-primary right-icon view-btn">Otros <i class="fal fa-long-arrow-right"></i></a>
+                                <button type="button" class="axil-btn btn-bg-primary right-icon view-btn" data-bs-toggle="modal" data-bs-target="#modalOtros">
+                                    Otros <i class="fal fa-long-arrow-right"></i>
+                                </button>
                             </div>
                             <h5 class="title"><a href="index-4.html">Otros</a></h5>
                         </div>
@@ -282,17 +288,17 @@
 
         <div class="pv-feature-area axil-section-gap pb-0">
             <div class="container">
-                <div class="etrade-newsletter-wrapper bg_image bg_image--5">
+               <!-- <div class="etrade-newsletter-wrapper bg_image bg_image--5">
                     <div class="newsletter-content">
-                        <span class="title-highlighter highlighter-primary2"><i class="fab fa-whatsapp"></i>Newsletter</span>
+                        <span class="title-highlighter highlighter-primary2"><i class="fab fa-whatsapp"></i></span>
                         <h2 class="title mb--40 mb_sm--30">Contáctanos</h2>
                         <div class="input-group newsletter-form">
-                            <button type="submit" class="axil-btn mb--15">Enviar mensaje</button>
+                            <button type="submit" class="axil-btn mb--15"target="_blank" href="https://wa.me/51910398955?text=Hola%20quiero%20agendar%20una%20cita%20para%20un%20servicio">Enviar mensaje</button>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
-        </div>
+        </div> 
 
         <div class="pv-feature-area axil-section-gap" id="nosotros">
             <div class="container">
@@ -306,7 +312,7 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="about-thumbnail">
                             <div class="thumbnail">
-                                <img src="assets/images/bg/bg-image-3.jpg" alt="About Us">
+                                <img src="assets/images/preview/banner-mockup.png" alt="About Us">
                             </div>
                         </div>
                         <div class="row row--20 mt--30">
@@ -316,7 +322,7 @@
                                         <img src="assets/images/icons/service1.png" alt="Service">
                                     </div>
                                     <div class="content">
-                                        <h6 class="title">Fast &amp; Secure Delivery</h6>
+                                        <h6 class="title">Excelentes Productos terminados</h6>
                                     </div>
                                 </div>
                             </div>
@@ -326,7 +332,7 @@
                                         <img src="assets/images/icons/service2.png" alt="Service">
                                     </div>
                                     <div class="content">
-                                        <h6 class="title">Money Back Guarantee</h6>
+                                        <h6 class="title">Garantia de satisfacción</h6>
                                     </div>
                                 </div>
                             </div>
@@ -334,19 +340,13 @@
                     </div>
                     <div class="col-xl-6 col-lg-6">
                         <div class="about-content content-right">
-                            <span class="text-heading">Salesforce B2C Commerce can help you create unified, intelligent digital commerce
-                                experiences — both online and in the store.</span>
+                            <span class="text-heading">Estamos orientados a la asistencia técnica en el área de; electricidad industrial y comercial, fabricación de luminarias, fabricación de accesorios metalmecánicos.</span>
                             <div class="row">
                                 <div class="col-xl-6">
-                                    <p>Empower your sales teams with industry tailored
-                                        solutions that support manufacturers as they go
-                                        digital, and adapt to changing markets & customers
-                                        faster by creating new business.</p>
+                                    <p>La empresa se fortaleció con el pasar de los años atendiendo a clientes del sector retail, industrial y de la construcción; desarrollando proyectos en las principales ciudades del Perú, así como, enel extranjero específicamente en Bolivia (homeceter roho) en el año 2018.</p>
                                 </div>
                                 <div class="col-xl-6">
-                                    <p class="mb--0">Salesforce B2B Commerce offers buyers the
-                                        seamless, self-service experience of online
-                                        shopping with all the B2B</p>
+                                    <p class="mb--0">Hoy contamos con la categoría de official partner en el Perú de la marca corob, líder mundial enla fabricación de maquinaria de matizado de pinturas.</p>
                                 </div>
                             </div>
                         </div>
@@ -445,7 +445,7 @@
                             </div> --}}
                             <div class="content">
                                 <h6 class="title">Dirección</h6>
-                                <p>8212 E. Glen Creek Street Orchard Park, NY 14127, United States of America</p>
+                                <p>Plexus Centro Empresarial, Ca. Fray Martín de Murúa 150, San Miguel 15086</p>
                             </div>
                         </div>
                     </div>
@@ -486,8 +486,8 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-lg-10">
-                        <div class="row row--20">
-                            <div class="col-lg-6">
+                      <!--  <div class="row row--20"> -->
+                            <!--<div class="col-lg-6">
                                 <div class="pv-support online-documentation">
                                     <a href="#" class="inner">
                                         <span class="icon">
@@ -499,22 +499,22 @@
                                         </span>
                                     </a>
                                 </div>
-                            </div>
-                            <div class="col-lg-6">
+                            </div>-->
+                            <div class="algn-center col-lg-12">
                                 <div class="pv-support datecated-support">
-                                    <a href="#" class="inner">
+                                    <a href="https://wa.me/51910398955?text=Hola%20quiero%20solicitar%20un%20servicio" target="_blank"class="inner">
                                         <span class="icon">
                                             <i class="fab fa-whatsapp"></i>
                                         </span>
                                         <span class="content">
-                                            <span class="h3 title">Soporte vía WhatsApp</span>
+                                            <span class="h3 title">Consultar a distancia</span>
                                             <span class="b1 paragraph">Nuestro principal canal de contacto es WhatsApp, donde atendemos consultas, coordinaciones y seguimiento de forma ágil y personalizada.</span>
                                             <span class="axil-btn">Enviar mensaje <i class="fal fa-long-arrow-right"></i></span>
                                         </span>
                                     </a>
                                 </div>
                             </div>
-                        </div>
+                        <!--</div> -->
                     </div>
                 </div>
             </div>
